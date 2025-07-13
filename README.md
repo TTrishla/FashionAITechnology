@@ -32,10 +32,6 @@
 ✅ Based on 2025 fashion & beauty trend predictions  
 ✅ Fully customizable UI via prompt chaining
 
----
-
-## 💬 Screenshots / Future Updates
-(You can add screenshots here or describe planned improvements!)
 
 ---
 
