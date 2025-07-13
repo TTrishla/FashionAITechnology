@@ -1,11 +1,50 @@
-# FashionAITechnology
-## Personal Stylist For Trending 2025 Colors
+# 🎨 Trending 2025 Color Recommendation App
 
+![Fashion AI Banner](https://images.unsplash.com/photo-1503342394128-4802597456a0?auto=format&fit=crop&w=1500&q=80)
 
+👗✨ **What’s trending in 2025?** Let AI style you with the latest color trends in clothing and makeup — all tailored to your **skin tone, hair color, and occasion**.
 
-[👉 Try the Live App on PartyRock](https://partyrock.aws/apps/your-app-id)
+🧠 Built with [Amazon PartyRock](https://partyrock.aws), this app uses **generative AI** to:
+- Recommend 2025 fashion-forward **clothing colors**
+- Suggest complementary **makeup shades**
+- Offer style tips to match your personal features
 
-Built using Amazon PartyRock — this GenAI-powered app recommends fashion and makeup colors for 2025 based on skin tone, hair color, and occasion.
+---
 
-🔹 Tech: Generative AI | Prompt Chaining | No Code  
-🔹 Tools: Amazon Bedrock / PartyRock Playground
+## 🚀 Try the App
+👉 [Click here to launch the PartyRock App](https://partyrock.aws/apps/your-app-id)  
+*No login or AWS account required*
+
+---
+
+## 🛠️ Tech Stack
+| Tool | Purpose |
+|------|---------|
+| 🧠 Amazon Bedrock (PartyRock) | Generative AI platform |
+| 🔗 Prompt Engineering | AI interaction design |
+| 💻 GitHub | Project portfolio & showcase |
+
+---
+
+## 📌 Features
+✅ No coding required  
+✅ Powered by LLMs (large language models)  
+✅ Based on 2025 fashion & beauty trend predictions  
+✅ Fully customizable UI via prompt chaining
+
+---
+
+## 💬 Screenshots / Future Updates
+(You can add screenshots here or describe planned improvements!)
+
+---
+
+## 🤝 Connect with Me
+Let’s collaborate or discuss AI + Fashion!
+
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 [GitHub Portfolio](https://github.com/yourusername)
+
+---
+
+© 2025 – Created with ❤️ using PartyRock
