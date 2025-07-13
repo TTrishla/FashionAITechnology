@@ -1,4 +1,4 @@
-# 🎨 Trending 2025 Color Recommendation App
+# 🎨 Trending 2025 Color Personal Stylist
 
 
 
@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Try the App
-👉 [Click here to launch the PartyRock App](https://partyrock.aws/apps/your-app-id)  
+👉 [Click here to launch the PartyRock App](https://partyrock.aws/u/FashionTechnologyandAI/yqHLfwhJK/Personal-Stylist) 
 *No login or AWS account required*
 
 ---
