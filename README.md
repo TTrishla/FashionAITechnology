@@ -1,6 +1,6 @@
 # 🎨 Trending 2025 Color Recommendation App
 
-![Fashion AI Banner](https://images.unsplash.com/photo-1503342394128-4802597456a0?auto=format&fit=crop&w=1500&q=80)
+
 
 👗✨ **What’s trending in 2025?** Let AI style you with the latest color trends in clothing and makeup — all tailored to your **skin tone, hair color, and occasion**.
 
